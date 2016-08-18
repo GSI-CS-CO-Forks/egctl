@@ -6,4 +6,7 @@
 # egpms     pms20    192.168.0.10    5000    hackme
   eg-pwr1   pms21    140.181.140.62  5000    gsi
   eg-pwr2   pms21    140.181.140.64  5000    gsi
+  eg-pwr3   pms21    140.181.140.66  5000    gsi
+  eg-pwr4   pms21    140.181.140.68  5000    gsi
+  eg-pwr5   pms21    140.181.140.70  5000    gsi
 #
